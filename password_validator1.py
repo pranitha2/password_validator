@@ -151,7 +151,7 @@ def upperandlowercasemin(password, username):
     return flag7
 
 
-# Function to check 3 consecutive special character
+# Function to check 5 same characters or numbers
 def consecutivecheck5(password, username):
     flag8 = True
     count3 = 0
